@@ -60,7 +60,6 @@ Całość jest zmagnesowana i na podstawkach. Chcę sprzedać całość, albo bo
 * 2x Dusk House Kallyss Auxiliary Expansion - 350zł/box
 * 1x Dusk House Kallyss Command Starter - 230zł/box
 * 1x Dusk House Kallyss Core Expansion - 350zł/box
-* 1x Dusk House Kallyss Battlegroup Box - 170zł/box
 * 1x Krueger, Wrath of Blighterghast - 90zł/box
 
 ---- Akcesoria ----
@@ -69,19 +68,6 @@ Całość jest zmagnesowana i na podstawkach. Chcę sprzedać całość, albo bo
 * Army Painter paint station 20zł 
 
 https://www.facebook.com/media/set/?set=a.9606788412704800)
-
-### Red Library 400zł / keyword - złożony, nie malowany
-* Linh Ly, Bibliothecary
-* Linh Ly, Storyteller
-* Jade Rabit
-* Paper Tiger
-* Map Map
-* Bookkeeper x3
-* Story of Sun wukong
-* Story of Thanh Giong
-* Story of Raijin
-* Calligrapher x3
-* Miya Murakami
 
 # Akcesoria:
 * Plecak GSW - [Army Transport Backpack - L](https://www.greenstuffworld.com/en/transport-cases/3850-army-transport-backpack.html) - 250zł
