@@ -6,11 +6,11 @@ Wysyłka po stronie kupującego lub odbiór osobisty we Wrocławiu.
 
 *Ossiarch Bonereapers*
 
-Całość sprzedam za 700zł, lub na części jak podano:
+Całość sprzedam za 6600zł, lub na części jak podano:
 
 * 1x Gothizaar Harverster 100zł
 * 3x Morghast Archai 100zł/box
-* 2x Mortek Guard 80zł/box
+* 1x Mortek Guard 80zł/box
 * 1x Vokmortian 50zł/box
 * Horrek Venzai box 150zł/box(2x Kavalos Deathriders, 1x Liege Kavalos)
 * 1x Tithe Echelon box 400zł/box
@@ -61,6 +61,10 @@ Całość jest zmagnesowana i na podstawkach. Chcę sprzedać całość, albo bo
 * 1x Dusk House Kallyss Command Starter - 230zł/box
 * 1x Dusk House Kallyss Core Expansion - 350zł/box
 * 1x Krueger, Wrath of Blighterghast - 90zł/box
+
+---- Eldfall ----
+
+[Karty upgrades](http://eldfall-chronicles.com/products/upgrade-cards) 25zł
 
 ---- Akcesoria ----
 
