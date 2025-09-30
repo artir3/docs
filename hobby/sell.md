@@ -37,15 +37,11 @@ Arcanists
 
 ----
 
-Bayou
-* The brewmaster, Moonshiner 20zł
-
 ----
 
 Effigy:
 * Kid Tut 30zł 
 * Mini Merlin 30zł
-* Headless Halfling 30zł
 * Creepy Crawlie 30zł
 
 
