@@ -6,7 +6,7 @@ Wysyłka po stronie kupującego lub odbiór osobisty we Wrocławiu.
 
 *Ossiarch Bonereapers*
 
-Całość sprzedam za 6600zł, lub na części jak podano:
+Całość sprzedam za 660zł, lub na części jak podano:
 
 * 1x Gothizaar Harverster 100zł
 * 3x Morghast Archai 100zł/box
@@ -49,7 +49,7 @@ Effigy:
 
 Dusk House Kallyss
 
-Całość jest zmagnesowana i na podstawkach. Chcę sprzedać całość, albo boxy. Całość sprzedam za: 1600zł
+Całość jest zmagnesowana i na podstawkach. Chcę sprzedać całość, albo boxy. Całość sprzedam za: 1450zł
 
 * 1x Scyrafael, Nis-Issyr of Desolation - 90zł/box
 * 1x Void Engine and Wights 200zł/box
