@@ -1,7 +1,8 @@
-[Sprzedam] Malifaux/AoS/Warmachine?akcesoria
+[Sprzedam] Malifaux/AoS/Warmachine/akcesoria
 
 Wysyłka po stronie kupującego lub odbiór osobisty we Wrocławiu.
 
+----
 ---- Age of Sigmar ----
 
 *Ossiarch Bonereapers*
@@ -15,6 +16,7 @@ Całość sprzedam za 660zł, lub na części jak podano:
 * Horrek Venzai box 150zł/box(2x Kavalos Deathriders, 1x Liege Kavalos)
 * 1x Tithe Echelon box 400zł/box
 
+----
 ---- Malifaux ----
 
 Ten Thunders:
@@ -23,54 +25,52 @@ Monk Keyword
 * 6x River Monk 10zł/model
 
 Foundry Keyword
-* Willie (Alt Miss Fire, brakująca torebka lub cos takiego) 20zł
+* Willie (Alt Miss Fire, brakująca torebka lub cos takiego) 10zł
 
 Last Blossom Keyword
-* Wanyudoo 20zł
+* Wanyudoo 10zł
 
 Versitile
 * Koji (Alt Stabbit Rabbit) 50zł
 
 Arcanists
-* Damian Revencroft - 20zł
-* Sandeep Desai - 20zł
-
-----
-
-----
+* Damian Revencroft - 10zł
+* Sandeep Desai - 10zł
 
 Effigy:
 * Kid Tut 30zł 
 * Mini Merlin 30zł
 * Creepy Crawlie 30zł
 
-
+----
 ---- Warmachine ----
 
 Dusk House Kallyss
 
-Całość jest zmagnesowana i na podstawkach. Chcę sprzedać całość, albo boxy. Całość sprzedam za: 1450zł
+Całość jest zmagnesowana i na podstawkach. Chcę sprzedać całość, albo boxy. Całość sprzedam za: 1400zł
 
-* 1x Scyrafael, Nis-Issyr of Desolation - 90zł/box
 * 1x Void Engine and Wights 200zł/box
 * 2x Dusk House Kallyss Auxiliary Expansion - 350zł/box
 * 1x Dusk House Kallyss Command Starter - 230zł/box
 * 1x Dusk House Kallyss Core Expansion - 350zł/box
 * 1x Krueger, Wrath of Blighterghast - 90zł/box
 
+----
 ---- Eldfall ----
 
 [Karty upgrades](http://eldfall-chronicles.com/products/upgrade-cards) 25zł
 
+----
 ---- Akcesoria ----
 
-* Torba GSW - Army Transport Bag - L - używana w bardzo dobrym stanie - 200zł
-* Army Painter paint station 20zł 
+* Torba GSW - Army Transport Bag - L - używana w bardzo dobrym stanie - 180zł
+* [Army Painter paint station](https://thearmypainter.com/en-pl/products/tools-paint-station-50-tl5063p) - 20zł
+* 2x [Red grass Painting Holder](https://www.redgrasscreative.com/product/painting-handle-rgg360-miniature-holder-v2) - 40zł/sztuka
 
 https://www.facebook.com/media/set/?set=a.9606788412704800)
 
 # Akcesoria:
-* Plecak GSW - [Army Transport Backpack - L](https://www.greenstuffworld.com/en/transport-cases/3850-army-transport-backpack.html) - 250zł
+* Plecak GSW - [Army Transport Backpack - L](https://www.greenstuffworld.com/en/transport-cases/3850-army-transport-backpack.html) - 200zł
 
 # Drukowane (!Usunąć Przed dodaniem na Polskie Mini Targowisko!)
 
