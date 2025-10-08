@@ -50,7 +50,6 @@ Effigy:
 ----
 ---- Akcesoria ----
 
-* [Army Painter paint station](https://thearmypainter.com/en-pl/products/tools-paint-station-50-tl5063p) - 20zł
 * 2x [Red grass Painting Holder](https://www.redgrasscreative.com/product/painting-handle-rgg360-miniature-holder-v2) - 40zł/sztuka
 
 https://www.facebook.com/media/set/?set=a.9606788412704800)
@@ -68,18 +67,3 @@ zdjęcia: [Album Fb z zdjęciami](https://www.facebook.com/media/set/?set=a.9612
 
 ----
 ----
-Rezerwacha:
-* Torba GSW - Army Transport Bag - L 
-
-----
----- Warmachine ----
-
-Dusk House Kallyss
-
-Całość jest zmagnesowana i na podstawkach. Chcę sprzedać całość, albo boxy. Całość sprzedam za: 1400zł
-
-* 1x Void Engine and Wights 200zł/box
-* 2x Dusk House Kallyss Auxiliary Expansion - 350zł/box
-* 1x Dusk House Kallyss Command Starter - 230zł/box
-* 1x Dusk House Kallyss Core Expansion - 350zł/box
-* 1x Krueger, Wrath of Blighterghast - 90zł/box
