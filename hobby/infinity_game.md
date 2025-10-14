@@ -18,9 +18,13 @@ My models list:
 |1|[Auxbot](https://www.human-sphere.com/Armbot_Peacemaker "Armbot Peacemaker")|||Armbots Box|
 |1|[Banshee](https://www.human-sphere.com/Banshee "Banshee")||Shotgun|Operation: Sandtrap|
 |1|[Beasthunters Free Guild](https://www.human-sphere.com/Beasthunters "Beasthunters")||Katana|Box|
+|1|[Bipandra](https://www.human-sphere.com/Bipandra)|Doctor|Combi Rifle|Dire Foes Mission Pack 15: Barrenlands|
 |1|[Black A.I.R.](https://www.human-sphere.com/Black_A.I.R. "Black A.I.R.")||Multi Sniper Rifle|Operation: Sandtrap|
 |1|[Black A.I.R.](https://www.human-sphere.com/Black_A.I.R. "Black A.I.R.")|Hacker|Submachine Gun|Kestrel Expansion Pack Gamma|
 |1|[Blink Team](https://www.human-sphere.com/Blink_Team "Blink Team")||Rocket Launcher|Beyond Operation: Sandtrap|
+|1|[Dr. Priya Harper, Archeo-raider](https://www.human-sphere.com/Dr._Priya_Harper,_Archeo-raider)||Plasma Carbine|Box|
+|1|[Dronbot Remotes](https://www.human-sphere.com/Dronbot)||HMG|PanOceania Dronbot Remotes Pack|
+|1|[Dronbot Remotes](https://www.human-sphere.com/Dronbot)||Missile Launcher|PanOceania Dronbot Remotes Pack|
 |1|[Father Lucien Sforza](https://www.human-sphere.com/Father_Lucien_Sforza "Father Lucien Sforza")||Viral Rifle|Box|
 |3|[Fennec Fusiliers](https://www.human-sphere.com/Fennec "Fennec")||Combi Rifle|Operation: Sandtrap|
 |1|[Firefly Squad](https://www.human-sphere.com/Firefly_Squad "Firefly Squad")|Paramedic|Combi Rifle|Beyond Operation: Sandtrap|
@@ -31,12 +35,21 @@ My models list:
 |1|[Hetkari Shooters](https://www.human-sphere.com/Hetkari_Shooters "Hetkari Shooters")||MULTI Red Fury|Beyond Operation: Sandtrap|
 |1|[Jackal](https://www.human-sphere.com/Jackal "Jackal")||Rocket Lancher|Kestrel Expansion Pack Beta|
 |1|[Jackal](https://www.human-sphere.com/Jackal "Jackal")||Submachine Gun|Kestrel Expansion Pack Beta|
+|1|[Machinist](https://www.human-sphere.com/Machinist)|Engineer|Combi Rifle|PanOceania Support Pack|
 |1|[Magistrate](https://www.human-sphere.com/Magistrate "Magistrate")||MULTI Marksman Rifle|Kestrel Expansion Pack Gamma|
 |1|[Magistrate](https://www.human-sphere.com/Magistrate "Magistrate")||Pistol|Kestrel Expansion Pack Beta|
 |1|[Mulebot](https://www.human-sphere.com/Mulebot "Mulebot")||Combi Rifle|Box|
+|2|[Palbot](https://www.human-sphere.com/Palbot)||PARA CC|PanOceania Support Pack|
 |1|[Scarecrow](https://www.human-sphere.com/Scarecrow "Scarecrow")||Shotgun|Operation: Sandtrap|
 |1|[Scarecrow](https://www.human-sphere.com/Scarecrow "Scarecrow")|Hacker|Submachine Gun|Kestrel Expansion Pack Alpha|
 |1|[Tikbalang](https://www.human-sphere.com/Tikbalang "Tikbalang")||HMG|Box|
+|1|[Trauma Doc](https://www.human-sphere.com/Trauma_Doc)|Doctor|Combi Rifle|PanOceania Support Pack|
+|1|[Warcor](https://www.human-sphere.com/Warcor)|Journalist|Stun Pistol|Box|
 |1|[Yamabushi](https://www.human-sphere.com/Yamabushi "Yamabushi")||Pancerfaust|Box|
 |-|-|-|-|-|
 |1|[Authorized Bounty Hunter](https://www.human-sphere.com/Authorized_Bounty_Hunter "Authorized Bounty Hunter")||Shotgun|[Limited edition](https://www.human-sphere.com/Limited_Edition)|
+|1|[Dragon Lady](https://www.human-sphere.com/Dragon_Lady_HVT)|HVT|-|Box|
+|1|[Field Scientist](https://www.human-sphere.com/Field_Scientist)|HVT|-|Dire Foes Mission Pack 15: Barrenlands|
+|1|[Yuriko Oda](https://www.human-sphere.com/Yuriko_Oda)|Engineer|Pisol|Dire Foes Mission Pack 15: Barrenlands|
+|1|[Táowù, Mastermind and Schemer](https://www.human-sphere.com/T%C3%A1ow%C3%B9,_Mastermind_and_Schemer)|HVT/Operative|-|Box|
+
