@@ -1,4 +1,4 @@
-[Sprzedam] Malifaux/AoS/Warmachine/akcesoria
+[Sprzedam] Malifaux/AoS/akcesoria
 
 Wysyłka po stronie kupującego lub odbiór osobisty we Wrocławiu.
 
@@ -7,7 +7,7 @@ Wysyłka po stronie kupującego lub odbiór osobisty we Wrocławiu.
 
 *Ossiarch Bonereapers*
 
-Całość sprzedam za 660zł, lub na części jak podano:
+Całość sprzedam za 300zł, lub na części jak podano:
 
 * 1x Gothizaar Harverster 100zł
 * 3x Morghast Archai 100zł/box
@@ -22,30 +22,27 @@ Całość sprzedam za 660zł, lub na części jak podano:
 Ten Thunders:
 
 Monk Keyword
-* 6x River Monk 10zł/model
-
-Foundry Keyword
-* Willie (Alt Miss Fire, brakująca torebka lub cos takiego) 10zł
+* 6x River Monk 1zł/model 
 
 Last Blossom Keyword
-* Wanyudoo 10zł
+* Wanyudoo 1zł
 
 Versitile
 * Koji (Alt Stabbit Rabbit) 50zł
 
 Arcanists
-* Damian Revencroft - 10zł
-* Sandeep Desai - 10zł
+* Damian Revencroft - 1zł
+* Sandeep Desai - 1zł
 
 Effigy:
-* Kid Tut 30zł 
-* Mini Merlin 30zł
-* Creepy Crawlie 30zł
+* Kid Tut 10zł 
+* Mini Merlin 10zł
+* Creepy Crawlie 10zł
 
 ----
 ---- Eldfall ----
 
-[Karty upgrades](http://eldfall-chronicles.com/products/upgrade-cards) 25zł
+[Karty upgrades](http://eldfall-chronicles.com/products/upgrade-cards) 10zł
 
 ----
 ---- Akcesoria ----
@@ -60,7 +57,7 @@ https://www.facebook.com/media/set/?set=a.9606788412704800)
 # Drukowane (!Usunąć Przed dodaniem na Polskie Mini Targowisko!)
 
 Modele Inne:
-* Piraci w skali 28mm, podstawka 20mm z magnesem (np do Blood&Plunder). 100zł całość
+* Piraci w skali 28mm, podstawka 20mm z magnesem (np do Blood&Plunder). 10zł całość
 * Statek Fregata MK2 z printable scenery - uszkodzona po upadku, 100zł
 Zdjęcia piratów i statku tutaj:
 zdjęcia: [Album Fb z zdjęciami](https://www.facebook.com/media/set/?set=a.9612721882111453)
