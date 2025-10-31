@@ -3,20 +3,6 @@
 Wysyłka po stronie kupującego lub odbiór osobisty we Wrocławiu.
 
 ----
----- Age of Sigmar ----
-
-*Ossiarch Bonereapers*
-
-Całość sprzedam za 300zł, lub na części jak podano:
-
-* 1x Gothizaar Harverster 100zł
-* 3x Morghast Archai 100zł/box
-* 1x Mortek Guard 80zł/box
-* 1x Vokmortian 50zł/box
-* Horrek Venzai box 150zł/box(2x Kavalos Deathriders, 1x Liege Kavalos)
-* 1x Tithe Echelon box 400zł/box
-
-----
 ---- Malifaux ----
 
 Ten Thunders:
@@ -48,11 +34,10 @@ Effigy:
 ---- Akcesoria ----
 
 * 2x [Red grass Painting Holder](https://www.redgrasscreative.com/product/painting-handle-rgg360-miniature-holder-v2) - 40zł/sztuka
+* Plecak GSW - [Army Transport Backpack - L](https://www.greenstuffworld.com/en/transport-cases/3850-army-transport-backpack.html) - 200zł
 
 https://www.facebook.com/media/set/?set=a.9606788412704800)
 
-# Akcesoria:
-* Plecak GSW - [Army Transport Backpack - L](https://www.greenstuffworld.com/en/transport-cases/3850-army-transport-backpack.html) - 200zł
 
 # Drukowane (!Usunąć Przed dodaniem na Polskie Mini Targowisko!)
 
