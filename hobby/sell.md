@@ -4,18 +4,12 @@ Wysyłka po stronie kupującego lub odbiór osobisty we Wrocławiu.
 
 ---- Malifaux ----
 
-* 6x River Monk 1zł/model 
-* 1x Wanyudoo 1zł
-* 1x Damian Revencroft - 1zł
-* 1x Sandeep Desai - 1zł
 * 1x Kid Tut 10zł 
-* 1x Mini Merlin 10zł
 * 1x Creepy Crawlie 10zł
-* 1x Koji (Alt Stabbit Rabbit) 50zł
 
 ---- Warmachine ----
 
-* 1x Warmachine: Emperor Carver Ultimus Esquire III & War Boar MMD47 170zł
+* 1x Warmachine: Emperor Carver Ultimus Esquire III & War Boar MMD47 170zł - Rezerwacja Jaromir
 * 1x Zestaw znaczników scenariusza - projekt własny, malowane - 80zł
 * 1x Eiryss limitka z początków MK1 150zł
 
