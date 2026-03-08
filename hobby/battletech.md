@@ -80,7 +80,7 @@ Tank
 Infantry
 | Name                     | Code | Tech | Amount | Box   | Versions                                                                               |
 | ------------------------ | ---- | ---- | ------ | ----- | -------------------------------------------------------------------------------------- |
-| IS Standard Battle Armor |      |      | 4      |       | [SRM](SQD4), [Flamer](SQD4), [Magnetic](SQD4), [MG](SQD4), [Laser](SQD4), [LRR](SQD4), |
+| IS Standard Battle Armor |      |      | 4      |       | (SRM)(SQD4), (Flamer)(SQD4), (Magnetic)(SQD4), (MG)(SQD4), (Laser)(SQD4), (LRR)(SQD4), |
 | Elemental Battle Armor   |      |      | 2?     |       |                                                                                        |
 | (Print) Infantry         |      |      | 4      | Print | -                                                                                      |
 
