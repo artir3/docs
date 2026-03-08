@@ -1,0 +1,91 @@
+Battletech list:
+
+Mechs:
+| Name             | Code             | Tech | Amount | Box   | Versions                             |
+| ---------------- | ---------------- | ---- | ------ | ----- | ------------------------------------ |
+| Annihilator      | ANH              |      | 1      |       | AS7-5W, AS7-6A                       |
+| Atlas            | AS7              |      | 1      |       | AS7-S, AS7-S4                        |
+| Archer           | ARC              |      | 1      |       | ARC-7C, ARC-2W, ARC-5R, ARC C 2      |
+| Kraken           | Bane             |      | 1      |       | Bane, Bane 7                         |
+| Battlemaster     | BLR              |      | 1      |       | BLR-1G, BLR-8Q                       |
+| Blackjack        | BLR              |      | 2      |       | C, BLR-2, BLR-3, BLR-5               |
+| Cesar            | CES              |      | 2      |       | CES-3R, CES-5R, CES-3R 'Archangel'   |
+| Chameleon        | CLN              |      | 1      |       | CLN-7V, CLN-7Z                       |
+| Charger          | CGR              |      | 1      |       | CGR-3K 'Jeremiah Rose'               |
+| Commando         | COM              |      | 1      |       | COM-2D, COM-3A                       |
+| Catapult         | CPLT             |      | 2      |       | CPLT-C1, CPLT-K2                     |
+| Devastator       | DVS              |      | 2      |       | DVS-2, DVS-11                        |
+| Enforcerer       | ENF              |      | 1      |       | ENF-5D, ENF-4R                       |
+| Firefly          | FFL              |      | 1      |       | FFL-4C, FFL-5A                       |
+| Dasher           | Fire Moth        |      | 1      |       | Fire Moth D, Fire Moth G             |
+| Flea             | FLE              |      | 1      |       | FLE-17, FLE-21                       |
+| Griffin          | GRF              |      | 1      |       | GRF-1N, GRF-1S                       |
+| Griffin IIC      | Griffin IIC      |      | 1      |       | Griffin IIC, Griffin IIC 9           |
+| Grizzly          | Grizzly          |      | 1      |       | Grizzly, Grizzly 2                   |
+| Hunchback        | HBK              |      | 1      |       | HBK-4G, HBK-5M                       |
+| Highlander IIC   | Highlander IIC   |      | 1      |       | Highlander IIC, Highlander IIC 3     |
+| Jenner IIC       | Jenner IIC       |      | 1      |       | Jenner IIC, Jenner IIC 5             |
+| Javelin          | JVN              |      | 1      |       | JVN-10N, JVN-12N                     |
+| Locust           | LCT              |      | 2      |       | LCT-1E, LCT-1V, LCT-7V,  LCT-3M      |
+| Locust IIC       | Locust IIC       |      | 1      |       | Locust IIC, Locust IIC 10            |
+| Black Hawk       | Nova             |      | 1      |       | NovaT, Nova Prime                    |
+| Marauder         | MAD              |      | 1      |       | Marauder (Red Hunter 3146)           |
+| Ostsol           | OTL              |      | 1      |       | OTL-4D, OTL-8E                       |
+| Pouncer          | Pouncer          |      | 1      |       | Pouncer Prime, Pouncer T             |
+| Phoenix Havk     | PXH              |      | 1      |       | PXH-4M, PXH-3K                       |
+| Phoenix Hawk IIC | Phoenix Hawk IIC |      | 1      |       | Phoenix Hawk IIC, Phoenix Hawk IIC 9 |
+| Quickdraw        | QKD              |      | 1      |       | QKD-4G, QKD-9G                       |
+| Rifleman         | RFL              |      | 1      |       | RFL-3N, RFL C 3                      |
+| Rifleman IIC     | Rifleman IIC     |      | 1      |       | Rifleman IIC, Rifleman IIC 2         |
+| Raven            | RVN              |      | 1      |       | RVN-1X, RVN-3X                       |
+| Shadow Hawk      | SHD              |      | 1      |       | SHD-2H, Shadow Hawk                  |
+| Shadow Hawk IIC  | Shadow Hawk IIC  |      | 1      |       | Shadow Hawk IIC, Shadow Hawk IIC 11  |
+| Shogun           | SHG, Shogun      |      | 1      |       | SHG-2F, Shogun C                     |
+| Spector          | SPR              |      | 1      |       | SPR-6F, SPR-5F                       |
+| Starslayer       | STY              |      | 1      |       | STY-4C, STY-3C                       |
+| Mad Cat          | Timber Wolf      |      | 2      |       | Timber Wolf Prime, Timber Wolf T     |
+| Thunderbolt      | TDR              |      | 1      |       | TDR-5S, TDR-5SE                      |
+| Trebuchet        | TBT              |      | 1      |       | TBT-5N, TBT-7M                       |
+| Victor           | VTR              |      | 1      |       | VTR-9B, VTR-9D                       |
+| Warhammer        | WHM              |      | 1      |       | WHM-6R, WHM-8R                       |
+| Masakari         | Warhawk          |      | 1      |       | Warhawk T, Warhawk C                 |
+| Wasp             | WSP              |      | 1      |       | WSP-5A, WSP-3W                       |
+| Whitworth        | WTH              |      | 1      |       | WTH-1, WTH-1 S                       |
+| Viper            | Black Python     |      | 1      |       | Black Python, White Raven            |
+| Wolverine        | WVR              |      | 1      |       | WVR-6M, WVR-6R                       |
+| Wraith           | TR               |      | 1      |       | TR1, TR5                             |
+| UrbanMech        | UM               |      | 2      | Print |                                      |
+| Crockett         | CRK              |      | 1      | Print |                                      |
+
+
+Areo
+| Name     | Code | Tech | Amount | Box | Versions       |
+| -------- | ---- | ---- | ------ | --- | -------------- |
+| Shilone  | SL   |      | 1      |     | Shilone-17     |
+| Visigoth |      |      | 1      |     | Visigoth Prime |
+
+
+Tank
+| Name                         | Code | Tech | Amount | Box   | Versions                                           |
+| ---------------------------- | ---- | ---- | ------ | ----- | -------------------------------------------------- |
+| Maxim Heavy Hover Transport  |      |      | 2      |       | (), (Escort), (Fire support), (BA Factory upgrade) |
+| Savannah Master Hovercraft   |      |      | 2      |       | (), (Interdictor), (Reflective), (SL)              |
+| Galleon                      | GAL  |      | 2      |       | GAL-100. GAL-102, GAL-106, GAL-106M                |
+| (Print) Heavy Hover          |      |      | 2      | Print | -                                                  |
+| (Print) Missile Hover        |      |      | 2      | Print | -                                                  |
+| (Print) Heavy Tank           |      |      | 2      | Print | -                                                  |
+| (Print) Missile Tank         |      |      | 2      | Print | -                                                  |
+| (Print) Transporter / HQ etc |      |      | 2      | Print | -                                                  |
+
+Infantry
+| Name                     | Code | Tech | Amount | Box   | Versions                                                                               |
+| ------------------------ | ---- | ---- | ------ | ----- | -------------------------------------------------------------------------------------- |
+| IS Standard Battle Armor |      |      | 4      |       | [SRM](SQD4), [Flamer](SQD4), [Magnetic](SQD4), [MG](SQD4), [Laser](SQD4), [LRR](SQD4), |
+| Elemental Battle Armor   |      |      | 2?     |       |                                                                                        |
+| (Print) Infantry         |      |      | 4      | Print | -                                                                                      |
+
+
+VTOL
+| Name            | Code | Tech | Amount | Box   | Versions |
+| --------------- | ---- | ---- | ------ | ----- | -------- |
+| (Print) Fighter |      |      | 2      | Print | -        |
