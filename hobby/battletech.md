@@ -20,14 +20,14 @@ Mechs:
 | [Firefly](https://www.sarna.net/wiki/Firefly)                   | FFL              | 1      | Mercenaries Box Set                                    | FFL-4C, FFL-5A                       |
 | [Dasher](https://www.sarna.net/wiki/Dasher)                     | Fire Moth        | 1      | Alpha Strike Box Set                                   | Fire Moth D, Fire Moth G             |
 | [Flea](https://www.sarna.net/wiki/Flea)                         | FLE              | 1      | Mercenaries Box Set                                    | FLE-17, FLE-21                       |
-| [Griffin](https://www.sarna.net/wiki/Griffin)                   | GRF              | 1      | Salvage Box:                                           | GRF-1N, GRF-1S                       |
+| [Griffin](https://www.sarna.net/wiki/Griffin)                   | GRF              | 1      | Salvage Box                                           | GRF-1N, GRF-1S                       |
 | [Griffin IIC](https://www.sarna.net/wiki/Griffin_IIC)           | Griffin IIC      | 1      | Clan Cavalry Star                                      | Griffin IIC, Griffin IIC 9           |
 | [Grizzly](https://www.sarna.net/wiki/Grizzly)                   | Grizzly          | 1      | Clan Direct Fire Star                                  | Grizzly, Grizzly 2                   |
 | [Hatamoto-Chi](https://www.sarna.net/wiki/Hatamoto-Chi)         | HTM              | 1      | Print                                                  | HBK-4G, HBK-5M                       |
 | [Hunchback](https://www.sarna.net/wiki/Hunchback)               | HBK              | 1      | Inner Sphere Urban Lance                               | HTM-27T                              |
 | [Highlander IIC](https://www.sarna.net/wiki/Highlander_IIC)     | Highlander IIC   | 1      | Clan Direct Fire Star                                  | Highlander IIC, Highlander IIC 3     |
 | [Jenner IIC](https://www.sarna.net/wiki/Jenner_IIC)             | Jenner IIC       | 1      | Clan Cavalry Star                                      | Jenner IIC, Jenner IIC 5             |
-| [Javelin](https://www.sarna.net/wiki/Javelin)                   | JVN              | 1      | Salvage Box:                                           | JVN-10N, JVN-12N                     |
+| [Javelin](https://www.sarna.net/wiki/Javelin)                   | JVN              | 1      | Salvage Box                                           | JVN-10N, JVN-12N                     |
 | [Locust](https://www.sarna.net/wiki/Locust)                     | LCT              | 2      | Alpha Strike Box Set, A Game of Armored Combat Box Set | LCT-1E, LCT-1V, LCT-7V,  LCT-3M      |
 | [Locust IIC](https://www.sarna.net/wiki/Locust_IIC)             | Locust IIC       | 1      | Clan Cavalry Star                                      | Locust IIC, Locust IIC 10            |
 | [Black Hawk](https://www.sarna.net/wiki/Black_%20_Hawk)         | Nova             | 1      | Alpha Strike Box Set                                   | NovaT, Nova Prime                    |
@@ -42,8 +42,8 @@ Mechs:
 | [Raven](https://www.sarna.net/wiki/Raven)                       | RVN              | 1      | Inner Sphere Urban Lance                               | RVN-1X, RVN-3X                       |
 | [Shadow Hawk](https://www.sarna.net/wiki/Shadow_Hawk)           | SHD              | 1      | A Game of Armored Combat Box Set                       | SHD-2H, Shadow Hawk                  |
 | [Shadow Hawk IIC](https://www.sarna.net/wiki/Shadow_Hawk_IIC)   | Shadow Hawk IIC  | 1      | Clan Cavalry Star                                      | Shadow Hawk IIC, Shadow Hawk IIC 11  |
-| [Shogun](https://www.sarna.net/wiki/Shogun)                     | SHG, Shogun      | 1      | Salvage Box:                                           | SHG-2F, Shogun C                     |
-| [Spector](https://www.sarna.net/wiki/Spector)                   | SPR              | 1      | Salvage Box:                                           | SPR-6F, SPR-5F                       |
+| [Shogun](https://www.sarna.net/wiki/Shogun)                     | SHG, Shogun      | 1      | Salvage Box                                           | SHG-2F, Shogun C                     |
+| [Spector](https://www.sarna.net/wiki/Spector)                   | SPR              | 1      | Salvage Box                                           | SPR-6F, SPR-5F                       |
 | [Starslayer](https://www.sarna.net/wiki/Starslayer)             | STY              | 1      | Mercenaries Box Set                                    | STY-4C, STY-3C                       |
 | [Mad Cat](https://www.sarna.net/wiki/Mad_Cat)                   | Timber Wolf      | 2      | Alpha Strike Box Set, Wolf's Dragoons Assault Star     | Timber Wolf Prime, Timber Wolf T     |
 | [Thunderbolt](https://www.sarna.net/wiki/Thunderbolt)           | TDR              | 1      | A Game of Armored Combat Box Set                       | TDR-5S, TDR-5SE                      |
@@ -52,7 +52,7 @@ Mechs:
 | [Warhammer](https://www.sarna.net/wiki/Warhammer)               | WHM              | 1      | Alpha Strike Box Set                                   | WHM-6R, WHM-8R                       |
 | [Masakari](https://www.sarna.net/wiki/Masakari)                 | Warhawk          | 1      | Alpha Strike Box Set                                   | Warhawk T, Warhawk C                 |
 | [Wasp](https://www.sarna.net/wiki/Wasp)                         | WSP              | 1      | Alpha Strike Box Set                                   | WSP-5A, WSP-3W                       |
-| [Whitworth](https://www.sarna.net/wiki/Whitworth)               | WTH              | 1      | Salvage Box:                                           | WTH-1, WTH-1 S                       |
+| [Whitworth](https://www.sarna.net/wiki/Whitworth)               | WTH              | 1      | Salvage Box                                           | WTH-1, WTH-1 S                       |
 | [Viper](https://www.sarna.net/wiki/Viper_(BattleMech))          | Black Python     | 1      | Clan Cavalry Star                                      | Black Python, White Raven            |
 | [Wolverine](https://www.sarna.net/wiki/Wolverine)               | WVR              | 1      | A Game of Armored Combat Box Set                       | WVR-6M, WVR-6R                       |
 | [Wraith](https://www.sarna.net/wiki/Wraith_(BattleMech))        | TR               | 1      | Alpha Strike Box Set                                   | TR1, TR5                             |
@@ -61,10 +61,10 @@ Mechs:
 
 
 Areo
-| Name                                            | Amount | Box | Versions       |
-| ----------------------------------------------- | ------ | --- | -------------- |
-| [Shilone](https://www.sarna.net/wiki/Shilone)   | 1      |     | SL Shilone-17  |
-| [Visigoth](https://www.sarna.net/wiki/Visigoth) | 1      |     | Visigoth Prime |
+| Name                                            | Amount | Box         | Versions       |
+| ----------------------------------------------- | ------ | ----------- | -------------- |
+| [Shilone](https://www.sarna.net/wiki/Shilone)   | 1      | Salvage Box | SL Shilone-17  |
+| [Visigoth](https://www.sarna.net/wiki/Visigoth) | 1      | Salvage Box | Visigoth Prime |
 
 
 Tank
