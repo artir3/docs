@@ -68,32 +68,32 @@ Areo
 
 
 Tank
-| Name                                                                              | Amount | Box                                             | Versions                                                       |
-| --------------------------------------------------------------------------------- | ------ | ----------------------------------------------- | -------------------------------------------------------------- |
-| [Behemoth Heavy Tank](https://www.sarna.net/wiki/Behemoth_(Combat_Vehicle))       | 2      | Battlefield Support: Recon & Hunter Lance       | (), (Davion), (Kurita), (Kurita Upgrade)                       |
-| [Condor Heavy Hover Tank](https://www.sarna.net/wiki/Condor_(Combat_Vehicle))     | 2      | Battlefield Support: Assault & Cavalry Lance    | (), (Ultra), (Laster), (Upgrade)                               |
-| [Demolisher Heavy Tank](https://www.sarna.net/wiki/Demolisher)                    | 2      | Battlefield Support: Assault & Cavalry Lance    | (), (Clan), (Cell), (Gauss)                                    |
-| [Drillson Heavy Hover Tank](https://www.sarna.net/wiki/Drillson)                  | 2      | Battlefield Support: Heavy Battle & Sweep Lance | (), (C), (MML), (Streak)                                       |
-| [Galleon](https://www.sarna.net/wiki/Galleon)                                     | 2      | Mercenaries Box Set                             | GAL-100. GAL-102, GAL-106, GAL-106M                            |
-| [J. Edgar Light Hover Tank](https://www.sarna.net/wiki/J._Edgar)                  | 2      | Battlefield Support: Heavy Battle & Sweep Lance | (), (Light PPC), (TAG), (X-Pulse)                              |
-| [Maxim Heavy Hover Transport](https://www.sarna.net/wiki/Maxim)                   | 2      | Mercenaries Box Set                             | (), (Escort), (Fire support), (BA Factory upgrade)             |
-| [Ontos Heavy Tank](https://www.sarna.net/wiki/Ontos)                              | 2      | Battlefield Support: Recon & Hunter Lance       | (), (Light Gauss), (Chemical Laser), (3053 Upgrade)            |
-| [Patton Tank](https://www.sarna.net/wiki/Patton)                                  | 2      | Battlefield Support: Heavy Battle & Sweep Lance | (), (XL), (Ultra), (Taurian)                                   |
-| [Pegasus Scout Hover Tank](https://www.sarna.net/wiki/Pegasus_Scout_Hover_Tank)   | 2      | Battlefield Support: Assault & Cavalry Lance    | (), (C3), (Upgrade), (3058 Upgrade)                            |
-| [Pike Support Vehicle](https://www.sarna.net/wiki/Pike_(Combat_Vehicle))          | 2      | Battlefield Support: Heavy Battle & Sweep Lance | (), (Missile), (Clan), (LB-X)                                  |
-| [Savanxnah Master Hovercraft](https://www.sarna.net/wiki/Savannah_Master)         | 2      | Salvage Box: Savannah Master                    | (), (Interdictor), (Reflective), (SL)                          |
-| [Schrek](https://www.sarna.net/wiki/Schrek)                                       | 2      | Battlefield Support: Assault & Cavalry Lance    | (Gauss Carrier), (PPC Carrier), (PPC Carrier XL), (AC Carrier) |
-| [Sculker Wheeled Scout Tank](https://www.sarna.net/wiki/Skulker_(Combat_Vehicle)) | 2      | Battlefield Support: Recon & Hunter Lance       | (), (SRM), (C),  (C3M)                                         |
-| (Print) Light Hover                                                               | 2      | Print                                           | -                                                              |
-| (Print) Heavy Hover                                                               | 2      | Print                                           | -                                                              |
-| (Print) Light Tank                                                                | 2      | Print                                           | -                                                              |
-| (Print) Heavy Tank                                                                | 2      | Print                                           | -                                                              |
-| (Print) Super Heavy Tank                                                          | 2      | Print                                           | -                                                              |
-| (Print) Tank destroyer                                                            | 2      | Print                                           | -                                                              |
-| (Print) Missile Tank                                                              | 2      | Print                                           | -                                                              |
-| (Print) Wheel Light Tank                                                          | 2      | Print                                           | -                                                              |
-| (Print) Transporter wheel                                                         | 2      | Print                                           | -                                                              |
-| (Print) Transporter caterpillar                                                   | 2      | Print                                           | -                                                              |
+| Name                                                                              | Type            | Amount | Box                                             | Versions                                                       |
+| --------------------------------------------------------------------------------- | --------------- | ------ | ----------------------------------------------- | -------------------------------------------------------------- |
+| [Behemoth Heavy Tank](https://www.sarna.net/wiki/Behemoth_(Combat_Vehicle))       | Heavy Tank      | 2      | Battlefield Support: Recon & Hunter Lance       | (), (Davion), (Kurita), (Kurita Upgrade)                       |
+| [Condor Heavy Hover Tank](https://www.sarna.net/wiki/Condor_(Combat_Vehicle))     | Hover Tank      | 2      | Battlefield Support: Assault & Cavalry Lance    | (), (Ultra), (Laster), (Upgrade)                               |
+| [Demolisher Heavy Tank](https://www.sarna.net/wiki/Demolisher)                    | Heavy Tank      | 2      | Battlefield Support: Assault & Cavalry Lance    | (), (Clan), (Cell), (Gauss)                                    |
+| [Drillson Heavy Hover Tank](https://www.sarna.net/wiki/Drillson)                  | Hover Tank      | 2      | Battlefield Support: Heavy Battle & Sweep Lance | (), (C), (MML), (Streak)                                       |
+| [Galleon](https://www.sarna.net/wiki/Galleon)                                     | Light Tank      | 2      | Mercenaries Box Set                             | GAL-100. GAL-102, GAL-106, GAL-106M                            |
+| [J. Edgar Light Hover Tank](https://www.sarna.net/wiki/J._Edgar)                  | Hover Tank      | 2      | Battlefield Support: Heavy Battle & Sweep Lance | (), (Light PPC), (TAG), (X-Pulse)                              |
+| [Maxim Heavy Hover Transport](https://www.sarna.net/wiki/Maxim)                   | Hover Transport | 2      | Mercenaries Box Set                             | (), (Escort), (Fire support), (BA Factory upgrade)             |
+| [Ontos Heavy Tank](https://www.sarna.net/wiki/Ontos)                              | Heavy Tank      | 2      | Battlefield Support: Recon & Hunter Lance       | (), (Light Gauss), (Chemical Laser), (3053 Upgrade)            |
+| [Patton Tank](https://www.sarna.net/wiki/Patton)                                  | Tank            | 2      | Battlefield Support: Heavy Battle & Sweep Lance | (), (XL), (Ultra), (Taurian)                                   |
+| [Pegasus Scout Hover Tank](https://www.sarna.net/wiki/Pegasus_Scout_Hover_Tank)   | Hover Tank      | 2      | Battlefield Support: Assault & Cavalry Lance    | (), (C3), (Upgrade), (3058 Upgrade)                            |
+| [Pike Support Vehicle](https://www.sarna.net/wiki/Pike_(Combat_Vehicle))          | Tank destroyer  | 2      | Battlefield Support: Heavy Battle & Sweep Lance | (), (Missile), (Clan), (LB-X)                                  |
+| [Savanxnah Master Hovercraft](https://www.sarna.net/wiki/Savannah_Master)         | Hover           | 2      | Salvage Box: Savannah Master                    | (), (Interdictor), (Reflective), (SL)                          |
+| [Schrek](https://www.sarna.net/wiki/Schrek)                                       | Tank destroyer  | 2      | Battlefield Support: Assault & Cavalry Lance    | (Gauss Carrier), (PPC Carrier), (PPC Carrier XL), (AC Carrier) |
+| [Sculker Wheeled Scout Tank](https://www.sarna.net/wiki/Skulker_(Combat_Vehicle)) | Scout Tank      | 2      | Battlefield Support: Recon & Hunter Lance       | (), (SRM), (C),  (C3M)                                         |
+| (Print) Light Hover                                                               |                 | 2      | Print                                           | -                                                              |
+| (Print) Heavy Hover                                                               |                 | 2      | Print                                           | -                                                              |
+| (Print) Light Tank                                                                |                 | 2      | Print                                           | -                                                              |
+| (Print) Heavy Tank                                                                |                 | 2      | Print                                           | -                                                              |
+| (Print) Super Heavy Tank                                                          |                 | 2      | Print                                           | -                                                              |
+| (Print) Tank destroyer                                                            |                 | 2      | Print                                           | -                                                              |
+| (Print) Missile Tank                                                              |                 | 2      | Print                                           | -                                                              |
+| (Print) Wheel Light Tank                                                          |                 | 2      | Print                                           | -                                                              |
+| (Print) Transporter wheel                                                         |                 | 2      | Print                                           | -                                                              |
+| (Print) Transporter caterpillar                                                   |                 | 2      | Print                                           | -                                                              |
 
 Infantry
 | Name                     | Amount | Box                               | Versions                                                                               |
