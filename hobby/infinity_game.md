@@ -17,7 +17,6 @@ My models list:
 |1|[Armbot Peacemaker](https://www.human-sphere.com/Armbot_Peacemaker "Armbot Peacemaker")||Shotgun|Armbots Box|
 |1|[Auxbot](https://www.human-sphere.com/Armbot_Peacemaker "Armbot Peacemaker")|||Armbots Box|
 |1|[Banshee](https://www.human-sphere.com/Banshee "Banshee")||Shotgun|Operation: Sandtrap|
-|1|[Beasthunters Free Guild](https://www.human-sphere.com/Beasthunters "Beasthunters")||Katana|Box|
 |1|[Bipandra](https://www.human-sphere.com/Bipandra)|Doctor|Combi Rifle|Dire Foes Mission Pack 15: Barrenlands|
 |1|[Black A.I.R.](https://www.human-sphere.com/Black_A.I.R. "Black A.I.R.")||Multi Sniper Rifle|Operation: Sandtrap|
 |1|[Black A.I.R.](https://www.human-sphere.com/Black_A.I.R. "Black A.I.R.")|Hacker|Submachine Gun|Kestrel Expansion Pack Gamma|
@@ -44,12 +43,13 @@ My models list:
 |1|[Scarecrow](https://www.human-sphere.com/Scarecrow "Scarecrow")|Hacker|Submachine Gun|Kestrel Expansion Pack Alpha|
 |1|[Tikbalang](https://www.human-sphere.com/Tikbalang "Tikbalang")||HMG|Box|
 |1|[Trauma Doc](https://www.human-sphere.com/Trauma_Doc)|Doctor|Combi Rifle|PanOceania Support Pack|
-|1|[Warcor](https://www.human-sphere.com/Warcor)|Journalist|Stun Pistol|Box|
-|1|[Yamabushi](https://www.human-sphere.com/Yamabushi "Yamabushi")||Pancerfaust|Box|
+
 |-|-|-|-|-|
 |1|[Authorized Bounty Hunter](https://www.human-sphere.com/Authorized_Bounty_Hunter "Authorized Bounty Hunter")||Shotgun|[Limited edition](https://www.human-sphere.com/Limited_Edition)|
 |1|[Dragon Lady](https://www.human-sphere.com/Dragon_Lady_HVT)|HVT|-|Box|
 |1|[Field Scientist](https://www.human-sphere.com/Field_Scientist)|HVT|-|Dire Foes Mission Pack 15: Barrenlands|
 |1|[Yuriko Oda](https://www.human-sphere.com/Yuriko_Oda)|Engineer|Pisol|Dire Foes Mission Pack 15: Barrenlands|
 |1|[Táowù, Mastermind and Schemer](https://www.human-sphere.com/T%C3%A1ow%C3%B9,_Mastermind_and_Schemer)|HVT/Operative|-|Box|
-
+|1|[Warcor](https://www.human-sphere.com/Warcor)|Journalist|Stun Pistol|Box|
+|1|[Yamabushi](https://www.human-sphere.com/Yamabushi "Yamabushi")||Pancerfaust|Box|
+|1|[Beasthunters Free Guild](https://www.human-sphere.com/Beasthunters "Beasthunters")||Katana|Box|

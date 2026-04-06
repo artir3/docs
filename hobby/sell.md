@@ -1,28 +1,82 @@
 [Sprzedam] Malifaux/Blood&Plunder/Eldfall/Akcesoria/
 
 Wysyłka po stronie kupującego lub odbiór osobisty we Wrocławiu.
+Biorę moliwość wymiany na Hanhelda za dopłatą (Msi Claw z i7 lub rog ally z A1 Extreme)
+
+---- Infinity ----
+
+KESTREL - 1400zł
+1x Kestrel z Operation Sandtrap Battle Pack
+1x Kestrel z Beyond Operation Sandtrap
+1x Kestrel Expansion Pack Alpha box
+1x Kestrel Expansion Pack Beta box
+1x Kestrel Expansion Pack Delta box
+1x Kestrel Expansion Pack Gamma box
+1x Drummers, Mobile Support Section box
+1x PanOceania Dronbot Remotes Pack box
+1x PanOceania Support Pack box
+1x Dr. Priya Harper, Archeo-Raider (Plasma Carbine)
+1x Tikbalangs, Armored Chasseurs Regiment
+1x Father Lucien Sforza, Authorized Bounty Hunter
+1x Armbots box
+1x Mulebot
+1x Bipandra
+
+Dokładna lista modeli: https://github.com/artir3/docs/blob/main/hobby/infinity_game.md
 
 ---- Eldfall Chronicles ----
 
-Eldfall chronicles Nord wind Kickstarter edition - 1600zł
+1x Nekomata + Komainu (wypakowane z pudełka)
+Amazon 1st ed  (wypakowane z pudełka)
+Kogetsu The Loge Monk 50zł (wypakowane z pudełka)
 
-Zestaw zawiera:
-1x Core Box: Northern Wind
-1x Goblin Wartribe Expansion
-1x Blighted Riftspawn Expansion
-1x Kogetsu
-1x Nekomata & Komainu
-1x Reinforcement Pack: Oni Yaksha
-1x Tomoe - Endless Rain
-1x Guildsworn Knight
-2x Amazon model
-1x 1st Edition Dungeon-crawl
-1x Acrylic Tokens Set
+EMPIRE OF SOGA  - 180zł (sklejone)
+1x Clan Champion
+1x Bushi Attendant
+1x Onitaoshi
+1x Kitsune Spellmaiden
+2x Musha miniatures
+
+SAND KINGDOWMS2 - 180zł (sklejone w podkładzie)
+1x Vizier of Conjurations
+1x Taskmage Explorer
+1x Academy Expeditioner
+1x Faris Outrider
+2x Spelldancer
+
+HELIAN LEAGURE - 300zł (sklejone i pomalowane)
+1x Expeditionary Hierophant
+1x Flameshaper
+1x Citadel Guard
+1x Helrin Expatriate
+2x Flameweaver
+
+WATER & EARTHERN CREATURES EXPANSION - 800zł (sklejone i pomalowane)
+1x Water Elemental Type 1
+1x Water Elemental Type 2 
+1x Colossus
+2x Earth Elementals
+2x Golems
+2x Gargoyles
+
+ONI CLANS - 450zł (wypakowane z pudełka)
+2x Oni Yaksha
+1x Oni Pariach
+1x Red Rasetsu
+1x Blue Rasetsu
+2x Oni Marauder
+1x Exclusive Chiyo-hime
+
+GOBLIN WARTRIBES 200zł (wypakowane z pudełka)
+1x Goblin Warchief
+1x Goblin Shaman
+1x Troll Prowler
+2x Goblin Skirmishers
+2x Goblin Brawlers
 
 ---- Malifaux ----
 
 1x Kid Tut 30zł
-1x Creepy Crawlie 30zł
 1x Minako Rei z 2x Katshiro 50zł 
 
 --- Blood&Plunder ---
@@ -44,11 +98,6 @@ Each unit contains 12 models.
 2x card deck 30zł
 piraci druk losowe modele -  dorzucam za darmo do zamówień
 
----- Akcesoria ----
-
-2x Red grass Painting Holder - 40zł/sztuka
-1x Plecak GSW, z sumie 6 funkcjonalnymi półkami na modele, po naprawie u krawcowej - Army Transport Backpack - L - 250zł
-
 ---- Karcianka ----
 
 Legends of 5 Rings - 500zł
@@ -58,10 +107,7 @@ Zestaw zawiera
 1x core box po ang
 Wszystkie polskie dodatki
 Wszytkie dodatki angielskie
+Dokładna lista: https://github.com/artir3/docs/blob/main/hobby/legends_of_5_rings_game.md
 
 ---- Zdjęcia ----
 https://www.facebook.com/media/set/?set=a.9606788412704800
-
-Modele Inne:
-* Piraci w skali 28mm, podstawka 20mm z magnesem (np do Blood&Plunder). 10zł całość
-* Statek Fregata MK2 z printable scenery - uszkodzona po upadku, 100zł
