@@ -1,28 +1,23 @@
-[Sprzedam] Malifaux/Blood&Plunder/Eldfall/Akcesoria/
+[Sprzedam] Infinity/Malifaux/Blood&Plunder/Eldfall/Akcesoria/
 
 Wysyłka po stronie kupującego lub odbiór osobisty we Wrocławiu.
-Biorę moliwość wymiany na Hanhelda za dopłatą (Msi Claw z i7 lub rog ally z A1 Extreme)
+Biorę mozliwość wymiany na Hanhelda za dopłatą (Msi Claw z i7 lub rog ally z A1 Extreme)
 
 ---- Infinity ----
 
-KESTREL - 1400zł
+KESTREL - 950zł
 1x Kestrel z Operation Sandtrap Battle Pack
 1x Kestrel z Beyond Operation Sandtrap
 1x Kestrel Expansion Pack Alpha box
 1x Kestrel Expansion Pack Beta box
-1x Kestrel Expansion Pack Delta box
 1x Kestrel Expansion Pack Gamma box
 1x Drummers, Mobile Support Section box
 1x PanOceania Dronbot Remotes Pack box
 1x PanOceania Support Pack box
-1x Dr. Priya Harper, Archeo-Raider (Plasma Carbine)
 1x Tikbalangs, Armored Chasseurs Regiment
-1x Father Lucien Sforza, Authorized Bounty Hunter
-1x Armbots box
 1x Mulebot
-1x Bipandra
 
-Dokładna lista modeli: https://github.com/artir3/docs/blob/main/hobby/infinity_game.md
+Lista: https://github.com/artir3/docs/blob/main/hobby/infinity_game.md
 
 ---- Eldfall Chronicles ----
 
@@ -74,6 +69,8 @@ GOBLIN WARTRIBES 200zł (wypakowane z pudełka)
 2x Goblin Skirmishers
 2x Goblin Brawlers
 
+Lista: https://github.com/artir3/docs/blob/main/hobby/eldfall_game.md
+
 ---- Malifaux ----
 
 1x Kid Tut 30zł
@@ -107,7 +104,8 @@ Zestaw zawiera
 1x core box po ang
 Wszystkie polskie dodatki
 Wszytkie dodatki angielskie
-Dokładna lista: https://github.com/artir3/docs/blob/main/hobby/legends_of_5_rings_game.md
+
+Lista: https://github.com/artir3/docs/blob/main/hobby/legends_of_5_rings_game.md
 
 ---- Elektronika ----
 Laptop Dell 5420 - 11th Generation Intel® Core™ i7, 32GB ram, 1TB disk - 1800zł
