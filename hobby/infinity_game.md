@@ -16,7 +16,6 @@ My models list:
 
 
 |-|-|-|-|-|
-|1|[Authorized Bounty Hunter](https://www.human-sphere.com/Authorized_Bounty_Hunter "Authorized Bounty Hunter")||Shotgun|[Limited edition](https://www.human-sphere.com/Limited_Edition)|
 |1|[Dragon Lady](https://www.human-sphere.com/Dragon_Lady_HVT)|HVT|-|Box|
 |1|[Field Scientist](https://www.human-sphere.com/Field_Scientist)|HVT|-|Dire Foes Mission Pack 15: Barrenlands|
 |1|[Yuriko Oda](https://www.human-sphere.com/Yuriko_Oda)|Engineer|Pisol|Dire Foes Mission Pack 15: Barrenlands|
